@@ -1,6 +1,6 @@
 # PowerBI Dashboard
 
-Global Super Store Power BI Dashboard
+Global Super Store Power BI Interactive Dashboard
 
 ## Output:
 
