@@ -2,6 +2,8 @@
 
 Global Super Store Power BI Interactive Dashboard
 
+Dashboard provide a comprehensive view of SuperStore's sales performance, profitability, customer behavior, and operational efficiency, guiding strategic decisions for growth and improvement.
+
 ## Output:
 
 ### Sales Dashboard:
